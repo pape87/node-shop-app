@@ -1,0 +1,15 @@
+# VSCode
+.vscode/settings.json
+
+# Dependencies
+node_modules
+
+# Compiled files
+dist
+deploy
+vs/**/*
+
+package-lock.json
+
+# Node
+npm-debug.log
